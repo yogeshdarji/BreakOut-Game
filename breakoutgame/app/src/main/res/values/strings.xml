@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">breakout</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_scoreactivity">scoreactivity</string>
+    <string name="title_activity_highscoredisplay">highscoredisplay</string>
+    <string name="title_activity_highscoresave">highscoresave</string>
+    <string name="savebutton">save</string>
+    <string name="highscore">highscore</string>
+    <string name="name">name</string>
+</resources>
